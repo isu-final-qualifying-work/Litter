@@ -10,8 +10,8 @@
 #include <lib/GyverStepper.h>
 
 #define SERVO_PIN 26
-#define SSID "TP-Link_3737"
-#define PASS "30982543"
+#define SSID "****"
+#define PASS "********"
 
 Servo servoMotor;  
 BLEScan* pBLEScan;
